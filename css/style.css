@@ -86,9 +86,6 @@ a {
   /* top: 100px; */
 }
 
-
-
-
 ul {
   margin: 0 auto;
 }
@@ -97,7 +94,7 @@ ul {
 
 }
 .po-1 {
-  top: 6rem;
+  top: 5rem;
   overflow: hidden;
 }
 .nav-link:hover {
@@ -136,8 +133,7 @@ ul {
 
   color: #EF1B48;
 }
-.hover a:hover{
-  
+.hover a:hover{ 
   color: #EF1B48;
 }
 .top-1{
@@ -152,8 +148,6 @@ ul {
   bottom: 20px;
   right: 214px;
 }
-/* up-animation */
-
 .img-up  {
   transition: 0.5s;
 }
@@ -228,5 +222,6 @@ ul {
    90%  {margin-top: -210pt;}
 
    100% {margin-top: 0px;}
-}
-
+  }
+  
+ 
